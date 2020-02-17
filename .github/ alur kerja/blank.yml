@@ -1,0 +1,32 @@
+name: CI
+# FIE PROPERTY
+on: [push]
+# SERVICE KONSULTASI PROPERTY DIJUAL & DISEWAKAN
+# LAYANAN KONSULTASI INVESTASI PROPERTI
+#LAYANAN JAWA LISTING TITIP SEJA & JUAL PROPERTI
+jobs: #BUSINESS  PROPERTY
+  build:
+#KERJA-SAMA PERJANJIAN SEWA & JUAL PROPERTI
+# MEMBANTU PELAYANAN DALAM PEMASARA PROPERTI
+# MEMBERIKAN ARAHAN INVESTASI PROPERTI 
+# MEMBANGUN AGENTSI YANG TERPECAYA
+# RISET INVESTASI & SEWA DAN JUAL BELI
+# MENINGKATKAN HARGA PROPERTY
+
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run one-line skrip FIE PROPERTY
+      run:  echo Hello , Informasi tepat & akurat 
+    - name: Run a multi-line script INFORMASI LENGKAP
+    run:  echo Untuk Informasi Lebih Lanjut Hubungi Kontak Person FIE PROPERTI +61813817957189  PANGILAN ATAU WA
+        echo Add other actions to build,
+         echo test, and deploy our project (Y)
+      - name : npm instal, bangun dan uji 
+      coba :KONSULTASI & DAFTAR SEWA DAN JUAL PROPERTY SERTA KONSULTASI DALAM KESEHATAN INVESTASI PROPERTY
+        npm install 
+        npm run build --jika 
+        tes npm hadir
+- nama:  # FIE PROPERTI -Konsultan dan Daftar Jual Beli Properti
+  menggunakan: masutaka/github-actions-all-in-one-project@1.1.0
+  (link)  https://github.com/fieproperty88/Sewa-Jual-Apartemen-Green-Pramuka-City-Fie-Property
